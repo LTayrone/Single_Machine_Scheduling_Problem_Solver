@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6bc38018-0afd-4f0e-a310-85887e63eff9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scheduling_solver/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scheduling_solver/data_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scheduling_solver/solver.py" afterDir="false" />
-    </list>
+    <list default="true" id="6bc38018-0afd-4f0e-a310-85887e63eff9" name="Changes" comment="Single Machine Scheduling Problem Solver" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,11 +57,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720099873983</updated>
-      <workItem from="1720099875235" duration="13737000" />
+      <workItem from="1720099875235" duration="14051000" />
     </task>
+    <task id="LOCAL-00001" summary="Single Machine Scheduling Problem Solver">
+      <option name="closed" value="true" />
+      <created>1720122960678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720122960678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Single Machine Scheduling Problem Solver" />
+    <option name="LAST_COMMIT_MESSAGE" value="Single Machine Scheduling Problem Solver" />
   </component>
 </project>
